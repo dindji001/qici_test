@@ -1,3 +1,4 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
 class AppTheme {
@@ -21,10 +22,26 @@ class _color {
 class _Asset {
   final logo = "assets/images/logo.png";
   final logo2 = "assets/images/logo2.png";
+  final orangeMoney = "assets/images/orange.png";
+  final mtnMoney = "assets/images/MTN.jpg";
+  final moovMoney = "assets/images/moov.jpg";
   final backgroundImage = "assets/images/background.png";
   final facebook = "assets/images/facebook.png";
   final apple = "assets/images/apple.png";
   final google = "assets/images/google.png";
+  final utilisateur = "assets/images/utilisateur.png";
+  final creancier = "assets/images/creancier.png";
+  final dette = "assets/images/dette.png";
+  final stock = "assets/images/stock.png";
+  final ventes = "assets/images/ventes.png";
+  final ruptureStock = "assets/images/rupture-de-stock.png";
+  final alarme = "assets/images/alarme.png";
+  final inviter = "assets/images/inviter.png";
+  final facture = "assets/images/facture.png";
+  final achat = "assets/images/achat.png";
+  final category = "assets/images/categorie.png";
+  final statistique = "assets/images/statistique.png";
+  final debiteur = "assets/images/debiteur.png";
 }
 
 class _AssetSvg {

@@ -40,8 +40,9 @@ class CButton extends StatelessWidget {
           RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(raduis),
             side: BorderSide(
-                width: sideWidth,
-                color: sideColor ?? AppTheme.color.whithColor),
+              width: sideWidth,
+              color: sideColor ?? AppTheme.color.whithColor,
+            ),
           ),
         ),
         backgroundColor: MaterialStateProperty.all<Color>(
