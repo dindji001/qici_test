@@ -2,10 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:qici/utils/appTheme.dart';
 import 'package:qici/utils/navigation_service.dart';
+import 'package:qici/view/screens/achats/achat-page.dart';
 import 'package:qici/view/screens/home/home-menu.dart';
-import 'package:qici/view/screens/home/menu-items/achats.dart';
 import 'package:qici/view/screens/home/menu-items/parametre.dart';
-import 'package:qici/view/screens/home/menu-items/ventes.dart';
 import 'package:qici/view/screens/ventes/vende-page.dart';
 
 class RootApp extends StatefulWidget {
